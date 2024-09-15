@@ -1,5 +1,8 @@
 # LogicExplainML-LEML
 
+![Em Desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+
+
 ## Descrição
 
 Este repositório é voltado para o estudo e desenvolvimento de técnicas explicáveis em Machine Learning, utilizando bibliotecas e ferramentas como LIME, SHAP, ANCHORS e `pyXAI`. A organização do repositório é feita em três branches: `main`, `docs` e `study-codes`.
